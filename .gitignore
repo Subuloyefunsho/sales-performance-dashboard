@@ -1,0 +1,24 @@
+# Power BI temporary / cache files
+*.pbix.tmp
+*.tmp
+.~lock.*
+TempFiles/
+
+# Raw data (uncomment to keep data out of the repo; comment out to include CSVs)
+*.csv
+
+# Power BI recovery / autosave
+*.abf
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Office temp lock files
+~$*
