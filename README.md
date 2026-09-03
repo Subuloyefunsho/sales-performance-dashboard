@@ -92,3 +92,7 @@ Relationships:
 2. `Get Data → Text/CSV` and load `Sales.csv`, `Customer.csv`, `Product.csv`.
 3. Create the Date table and relationships (see `DAX_MEASURES.md`).
 4. Add the measures, then build the visuals for each page.
+
+## License
+
+Released under the [MIT License](LICENSE).
