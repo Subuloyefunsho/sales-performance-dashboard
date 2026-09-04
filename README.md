@@ -88,6 +88,10 @@ Relationships:
 
 ## Getting started
 
+The finished report is included as [`sales_dashboard.pbix`](sales_dashboard.pbix) — open it in Power BI Desktop to explore the interactive dashboard directly.
+
+To rebuild it from scratch:
+
 1. Open Power BI Desktop.
 2. `Get Data → Text/CSV` and load `Sales.csv`, `Customer.csv`, `Product.csv`.
 3. Create the Date table and relationships (see `DAX_MEASURES.md`).
